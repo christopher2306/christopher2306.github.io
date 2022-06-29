@@ -372,8 +372,8 @@ a:hover {
 
 
 .card_proj:hover{
-    height: 350px;
-    width: 350px;
+    height: 310px;
+    width: 310px;
     margin: 3rem 0 0 0;
     background-image: url('./img/img_ramp.jpg');
     background-position: center;
@@ -416,8 +416,8 @@ a:hover {
 }
 
 .card_proj1:hover {
-    height: 350px;
-    width: 350px;
+    height: 310px;
+    width: 310px;
     margin: 3rem 0 0 0;
     background-image: url('./img/orlando.jpg');
     background-position: center;
